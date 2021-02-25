@@ -3,3 +3,59 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: blue;
+  background-color: #aaa5a5;
+  padding: 1px 10px 1px 10px;
+}
+
+a:hover {
+  color: purple;
+  background-color: whitesmoke;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.85em;
+}
+
+p {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+  padding: 5px 0px 5px;
+}
+
+#featured-property{
+  padding-bottom: 30px;
+}
+
+#details div {
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: red;
+}
+
+#details p {
+  width: 25%;
+  float: center;
+  width: max-content;
+}
+
+
+
+
+
